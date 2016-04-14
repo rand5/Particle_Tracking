@@ -1,4 +1,3 @@
 # Particle_Tracking
 
-G551D
-R117H
+Some sample text in the master README file
